@@ -11,6 +11,6 @@
 - Changi - *IOW Mobile App*
 - Havelock
 - Raffles
-- Suntec
+- Suntec - *INFOJAM Analysis*
 - Telok - *RAS*
 - LauPaSat - *INFOJAM CORE*
