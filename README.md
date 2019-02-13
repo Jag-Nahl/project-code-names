@@ -3,13 +3,14 @@
 - Adachi
 - Chibu
 - Matsudo
-- Duxton
+- Duxton - *Chefzapp*
 - Yishun
 - Serangoon
 - Batok
 - Punggol
-- Changi
+- Changi - *IOW Mobile App*
 - Havelock
 - Raffles
 - Suntec
-- Telok
+- Telok - *RAS*
+- LauPaSat - *INFOJAM CORE*
