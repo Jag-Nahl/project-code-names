@@ -1,6 +1,6 @@
 # project-code-names
 
-- Adachi
+- Adachi - *Holiday Leave*
 - Chibu
 - Matsudo
 - Duxton - *Chefzapp*
